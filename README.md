@@ -56,7 +56,7 @@
 ## 🌐 Connect With Me
 - GitHub: https://github.com/your-username
 - Email: ancywilson2006@gmail.com
-- LinkedIn:Ancy Wilson
+- LinkedIn:https://www.linkedin.com/in/ancy-wilson-698713355
 
 ---
 
