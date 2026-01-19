@@ -74,6 +74,4 @@
   />
 </p>
 
-![Snake animation](https://github.com/ancyywilson/ancyywilson/blob/output/github-contribution-grid-snake.svg)
-
 ✨ *Thanks for visiting my profile!*  
