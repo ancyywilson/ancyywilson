@@ -54,5 +54,24 @@
 - LinkedIn:https://www.linkedin.com/in/ancy-wilson-698713355
 
 ---
+## 📊 GitHub Status
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ancyywilson&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ancyywilson&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ancyywilson&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ✨ *Thanks for visiting my profile!*  
