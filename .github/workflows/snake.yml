@@ -5,13 +5,16 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: ancyywilson 
+          github_user_name: ancyywilson
           outputs: |
             dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v3
