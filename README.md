@@ -47,9 +47,7 @@
 
 
 
-
 ---
-https://raw.githubusercontent.com/ancyywilson/ancyywilson/main/README.md
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
