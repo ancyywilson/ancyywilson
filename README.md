@@ -69,14 +69,5 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ancyywilson&theme=github_dark" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ancyywilson/ancyywilson/output/github-snake-dark.svg" />
-    <img
-      src="https://raw.githubusercontent.com/ancyywilson/ancyywilson/output/github-snake.svg"
-      alt="GitHub contribution snake" />
-  </picture>
-</p>
 
 ✨ *Thanks for visiting my profile!*  
