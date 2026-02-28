@@ -50,7 +50,7 @@
 ---
 ## 📊 GitHub Stats
 
-p align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/ancyywilson/ancyywilson/output/github-snake-dark.svg" />
