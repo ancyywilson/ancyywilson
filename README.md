@@ -11,7 +11,21 @@
 - 🤝 Open to collaboration and growth
 
 ---
+## 🔥 Languages • Frameworks • Tools 🔥
 
+<p align="center">
+  <img src="assets/animated/react.gif" width="90"/>
+  <img src="assets/animated/redux.gif" width="90"/>
+  <img src="assets/animated/nextjs.gif" width="90"/>
+  <img src="assets/animated/typescript.gif" width="90"/>
+</p>
+
+<p align="center">
+  <img src="assets/animated/tailwind.gif" width="90"/>
+  <img src="assets/animated/aws.gif" width="90"/>
+  <img src="assets/animated/mongodb.gif" width="90"/>
+  <img src="assets/animated/mysql.gif" width="90"/>
+</p>
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
