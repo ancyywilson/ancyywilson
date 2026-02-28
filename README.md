@@ -50,6 +50,16 @@
 ---
 ## 📊 GitHub Stats
 
+p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ancyywilson/ancyywilson/output/github-snake-dark.svg" />
+    <img
+      src="https://raw.githubusercontent.com/ancyywilson/ancyywilson/output/github-snake.svg"
+      alt="GitHub contribution snake" />
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ancyywilson&theme=github_dark" />
 
