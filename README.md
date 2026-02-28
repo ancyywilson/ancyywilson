@@ -49,6 +49,11 @@
 
 ---
 ## 📊 GitHub Contributions
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ancyywilson" alt="GitHub Contributions Chart">
+</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
