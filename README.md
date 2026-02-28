@@ -49,13 +49,18 @@
 
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ancyywilson&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ancyywilson &theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ancyywilson&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancyywilson&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img
