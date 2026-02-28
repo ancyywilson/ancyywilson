@@ -49,24 +49,6 @@
 
 
 ---
-## 📊 GitHub Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ancyywilson&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ancyywilson&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancyywilson&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ancyywilson&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
 
 <p align="center">
   <picture>
