@@ -46,6 +46,15 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
+## 🛠 Technologies
+
+<p align="center">
+  <img src="assets/github.svg" />
+  <img src="assets/git.svg" />
+  <img src="assets/html.svg" />
+  <img src="assets/linux.svg" />
+</p>
+
 
 
 ---
