@@ -72,4 +72,4 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ancyywilson&theme=github_dark" />
 
-✨ *Thanks for visiting my profile!*  
+✨ *Thanks for visiting my profile!  
