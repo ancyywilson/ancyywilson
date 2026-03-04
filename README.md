@@ -12,7 +12,7 @@
 
 ---
 ## My Portfolio
- [click](https://portfolio-web-green-theta.vercel.app/)
+ [Click](https://portfolio-web-green-theta.vercel.app/)
 ---
 ## 🛠️ Tech Stack
 
