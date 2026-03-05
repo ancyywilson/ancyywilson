@@ -1,6 +1,6 @@
-# Hi 👋 I'm Ancy Wilson  
+# Hi I'm Ancy Wilson  
 
-🌱 Passionate learner | 💻 Tech enthusiast | 🚀 Building step by step  
+ Passionate learner | Tech enthusiast |  Building step by step  
 
 ---
 
