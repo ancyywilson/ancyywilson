@@ -17,9 +17,6 @@
 - 🤝 Open to collaboration and growth
 
 ---
-## My Portfolio
- [Click](https://portfolio-web-green-theta.vercel.app/)
----
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
