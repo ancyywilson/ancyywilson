@@ -2,6 +2,12 @@
 
  Passionate learner | Tech enthusiast |  Building step by step  
 
+<p align="center">
+  <a href="https://portfolio-web-green-theta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=vercel">
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
