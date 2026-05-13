@@ -1,4 +1,6 @@
-# Hi I'm Ancy Wilson  
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,40:0072ff,80:6a11cb,100:2575fc&height=220&section=header&text=Ancy%20Wilson&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20DevOps%20Explorer&descSize=17&descAlignY=60&descColor=e0f7ff&animation=fadeIn" width="100%" />
+
 
  Passionate learner | Tech enthusiast |  Building step by step  
 
@@ -76,3 +78,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ancyywilson&theme=github_dark" />
 
 ✨ *Thanks for visiting my profile!*
+
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=80&section=footer" width="100%" />
