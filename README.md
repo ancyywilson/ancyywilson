@@ -1,6 +1,4 @@
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,40:f06595,80:cc5de8,100:845ef7&height=220&section=header&text=Ancy%20Wilson&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20DevOps%20Explorer&descSize=17&descAlignY=60&descColor=f8f9fa&animation=fadeIn" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:232526,50:414345,100:6d6027&height=280&section=header&text=Ancy%20Wilson&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=✦%20Creative%20Developer%20×%20AI%20✦&descColor=fafafa&descSize=18&descAlignY=62&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
 
 
  Passionate learner | Tech enthusiast |  Building step by step  
